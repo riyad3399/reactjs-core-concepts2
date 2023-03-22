@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+.product{
+  background-color: orchid;
+  padding: 15px;
+  margin: 20px;
+  border: 2px solid maroon;
+  border-radius: 20px;
+}
+
+.product:hover{
+  background-color: lightcyan;
+  color: darkblue;
+}
+
+.btn-plus{
+  padding: 10px;
+  border-radius: 8px;
+  background-color: blue;
+  color: wheat;
+}
+
+.btn-munis{
+  padding: 10px;
+  border-radius: 8px;
+  background-color: red;
+  color: wheat;
+  margin: 10px;
+}
